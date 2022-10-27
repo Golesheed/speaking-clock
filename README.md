@@ -42,7 +42,7 @@ But there are also some exceptions that can be said in different ways which we u
 - for saying "30 minutes past":
 > “hour” + hour + “and” + “half past” + “it is”
 - for saying "15 minutes to":
-> “hour” + hour +” and” + “quarter to” + “it is”
+> “hour” + “quarter to” + next hour + “it is”
 
 Where the hour is the current time and minute is the current minute. The words in quotation marks are the equivalent translation of the words inside of quotation marks in Farsi.
 ## GDPR 

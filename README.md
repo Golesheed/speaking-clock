@@ -4,7 +4,7 @@ This is a speaking clock which was made as an assignment for our Introduction to
 ## Requirments
 Make sure you have Python 3.10 installed (download from here: https://www.python.org/downloads/) , also check the requirment's file.
 ## How to run the code?
-Simply run main in your IDE.
+Download audio files, make sure that the path is correct in the code and then simply run. :)
 ## Languages supported
 - Dutch
 - Farsi

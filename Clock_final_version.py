@@ -14,7 +14,8 @@ number_dict = {}
 number_dict_Dutch = {}
 
 def numberSounds():
-    path = r"put path to audiofiles" # path to audio files
+    path = r"Put the path to the audio files here in line 17" # path to audio files
+    print(path)
 
     for i in range(1, 60): # Create a dictionary with paths to the Farsi audio files
         number = i
@@ -156,12 +157,8 @@ class MainWindow(QMainWindow):
 
         self.setFixedSize(700, 500)
 
-        #making the buttons work
-        now = datetime.now()
-        nowString = now.strftime(('%H:%M:%S'))
-
-        self.pybutton.clicked.connect(lambda: concatSounds(nowString))
-        self.pybutton2.clicked.connect(lambda: concatSoundsDutch(nowString))
+        self.pybutton.clicked.connect(lambda: concatSounds(datetime.now().strftime(('%H:%M:%S'))))
+        self.pybutton2.clicked.connect(lambda: concatSoundsDutch(datetime.now().strftime(('%H:%M:%S'))))
 
 
         # The code below comes from https://www.geeksforgeeks.org/create-analog-clock-using-pyqt5-in-python/.

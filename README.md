@@ -46,5 +46,5 @@ But there are also some exceptions that can be said in different ways which we u
 
 Where the hour is the current time and minute is the current minute. The words in quotation marks are the equivalent translation of the words inside of quotation marks in Farsi.
 ## GDPR 
-The recordings are from the two creators and we have signed a consent form and This repository is only accessible to students and the professor.
+The recordings are from the two creators and we have signed a consent form and consent for their voices to be on this repository.
 

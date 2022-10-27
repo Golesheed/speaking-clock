@@ -1,8 +1,8 @@
 # Floor & Golshid's DreamClock
 ## Description
 This is a speaking clock which was made as an assignment for our Introduction to Voice Technology course from MSc Voice Technology at Rijksuniversiteit Groningen/Campus Fryslân.
-## Requirments
-Make sure you have Python 3.10 installed (download from here: https://www.python.org/downloads/) , also check the requirment's file.
+## Requirements
+Make sure you have Python 3.10 installed (download from here: https://www.python.org/downloads/) , also check the requirements file.
 ## How to run the code?
 Download audio files, make sure that the path is correct in the code and then simply run. :)
 ## Languages supported
@@ -31,7 +31,7 @@ Saying time in Dutch depends on where the hands of the clock are pointing and th
 
 Where the minute is the amount of minutes to/past the corresponding quarter. The words in quotation marks are the equivalent translation of the words inside of quotation marks in Dutch.
 ### Farsi
-Saying time in farsi is generally like:
+Saying time in Farsi is generally like:
 > "hour" + hour + "and" + minute + "minute" + "it is"
 
 But there are also some exceptions that can be said in different ways which we used them in our clock. for example:
@@ -46,4 +46,5 @@ But there are also some exceptions that can be said in different ways which we u
 
 Where the hour is the current time and minute is the current minute. The words in quotation marks are the equivalent translation of the words inside of quotation marks in Farsi.
 ## GDPR 
-The recording's are from the two creators and we have signed a consent form and This repository is only accessible to students and the professor.
+The recordings are from the two creators and we have signed a consent form and This repository is only accessible to students and the professor.
+
